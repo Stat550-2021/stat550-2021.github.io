@@ -1,6 +1,19 @@
+title: UBC Stat550 2021
+email: daniel@stat.ubc.ca
+author: Daniel J. McDonald
+author-url: https://dajmcdon.github.io/
+description: > # this means to ignore newlines until "baseurl:"
+  UBC Stat 550 - Techniques of Statistical Consulting, 2021
+baseurl: "" # the subpath of your site, e.g.
+url: "https://stat550-2021.github.io"
 remote_theme: dajmcdon/minimal-course@main
+navbar: dark
+theme-bg: rgb(101, 78, 163)
 navbar-fixed-top: true # if true, also check _sass/bootstrap4-cdn.scss padding top
 logo_path: /assets/img/chart-bar-white.svg # optional
+
+theme-bg:
+google_fonts: Montserrat
 
 use-license: true
 
