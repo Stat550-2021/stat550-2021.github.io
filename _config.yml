@@ -1,1 +1,18 @@
 remote_theme: dajmcdon/minimal-course@main
+navbar-fixed-top: true # if true, also check _sass/bootstrap4-cdn.scss padding top
+logo_path: /assets/img/chart-bar-white.svg # optional
+
+use-license: true
+
+navigation:
+  - title: Syllabus
+    url: /syllabus/
+  - title: Schedule
+    url: /schedule/
+  - title: Github
+    url: https://github.com/stat550-2021/
+    icon: "fab fa-github"
+
+
+plugins:
+  - jekyll-remote-theme
