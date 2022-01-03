@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   UBC Stat 550 - Techniques of Statistical Consulting, 2021
 baseurl: "" # the subpath of your site, e.g.
 url: "https://stat550-2021.github.io/"
-remote_theme: dajmcdon/mkdocs-jekyll@minimal
+remote_theme: dajmcdon/mkdocs-jekyll
 
 
 # Social (First three Required)
@@ -18,7 +18,7 @@ github_repo: "stat550-2021"
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 34
-color: "deep purple" # primary color for header, buttons
+color: deep-purple # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
@@ -27,7 +27,7 @@ tag_color: danger # danger, success, warning, primary, info, secondary
 
 
 accentColor: orange # purple, green, etc.
-themeColor: "deep purple" # purple, green, blue, orange, purple, grey
+themeColor: deep-purple # purple, green, blue, orange, purple, grey
 fixedNav: true # true or false
 
 permalink: /:title/
