@@ -34,12 +34,12 @@ permalink: /:title/
 markdown: kramdown
 
 toc:
-  -title: Home
-   url: /
-  -title: Syllabus
-   url: /syllabus/
-  -title: Schedule
-   url: /schedule/
-  -title: Lecture slides
-   url: /lectures/
-   
+  - title: Home
+    url: /
+  - title: Syllabus
+    url: /syllabus/
+  - title: Schedule
+    url: /schedule/
+  - title: Lecture slides
+    url: /lectures/
+
