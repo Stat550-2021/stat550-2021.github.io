@@ -6,26 +6,29 @@ description: > # this means to ignore newlines until "baseurl:"
   UBC Stat 550 - Techniques of Statistical Consulting, 2021
 baseurl: "" # the subpath of your site, e.g.
 url: "https://stat550-2021.github.io"
-remote_theme: dajmcdon/minimal-course@main
-navbar: dark
-theme-bg: rgb(101, 78, 163)
-navbar-fixed-top: true # if true, also check _sass/bootstrap4-cdn.scss padding top
-logo_path: /assets/img/chart-bar-white.svg # optional
-
-theme-bg:
-google_fonts: Montserrat
-
-use-license: true
-
-navigation:
-  - title: Syllabus
-    url: /syllabus/
-  - title: Schedule
-    url: /schedule/
-  - title: Github
-    url: https://github.com/stat550-2021/
-    icon: "fab fa-github"
+remote_theme: dajmcdon/mkdocs-jekyll@minimal
 
 
-plugins:
-  - jekyll-remote-theme
+# Social (First three Required)
+repo: "https://github.com/stat550-2021/
+github_user: "stat550-2021"
+github_repo: "stat550-2021"
+
+# Image and (square) dimension for logo (don't start with /)
+# If commented, will use material hat theme
+# logo: "assets/img/logo/SRCC-square-red.png"
+logo_width: 34
+color: "#8c1515" # primary color for header, buttons
+
+# Build settings
+markdown: kramdown
+
+tag_color: danger # danger, success, warning, primary, info, secondary
+
+
+accentColor: red # purple, green, etc.
+themeColor: red # purple, green, blue, orange, purple, grey
+fixedNav: 'true' # true or false
+
+permalink: /:title/
+markdown: kramdown
