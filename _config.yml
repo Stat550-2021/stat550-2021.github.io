@@ -18,7 +18,7 @@ github_repo: "stat550-2021"
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 34
-color: purple # primary color for header, buttons
+color: "deep purple" # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
@@ -27,17 +27,17 @@ tag_color: danger # danger, success, warning, primary, info, secondary
 
 
 accentColor: orange # purple, green, etc.
-themeColor: purple # purple, green, blue, orange, purple, grey
-fixedNav: 'false' # true or false
+themeColor: "deep purple" # purple, green, blue, orange, purple, grey
+fixedNav: true # true or false
 
 permalink: /:title/
 markdown: kramdown
 
 toc:
   - title: Syllabus
-    url: /syllabus
+    url: https://stat550-2021.github.io/syllabus/
   - title: Schedule
-    url: /schedule
+    url: https://stat550-2021.github.io/schedule/
   - title: Lecture slides
-    url: /lectures
+    url: https://stat550-2021.github.io/lectures/
 
