@@ -18,7 +18,7 @@ github_repo: "stat550-2021"
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
 logo_width: 34
-color: "#410b7a" # primary color for header, buttons
+color: purple # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
@@ -26,9 +26,9 @@ markdown: kramdown
 tag_color: danger # danger, success, warning, primary, info, secondary
 
 
-accentColor: green # purple, green, etc.
-themeColor: "#410b7a" # purple, green, blue, orange, purple, grey
-fixedNav: 'true' # true or false
+accentColor: orange # purple, green, etc.
+themeColor: purple # purple, green, blue, orange, purple, grey
+fixedNav: 'false' # true or false
 
 permalink: /:title/
 markdown: kramdown

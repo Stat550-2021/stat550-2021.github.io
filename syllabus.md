@@ -20,8 +20,8 @@ I'm happy to arrange additional time. Just message me on Slack.
 
 
 __Course webpage__:    
-WWW: <https://stat550-2021.github.io/>
-Github Org: <https://github.com/stat550-2021/
+WWW: <https://stat550-2021.github.io/>  
+Github Org: <https://github.com/stat550-2021/>
 
 __Lectures__:  
 Tue/Thu 12:30 - 14:00, ESB 4192 (on Zoom for now, link on Canvas) 
@@ -53,7 +53,7 @@ TBD
 In-class activities, max 20 points  
 Little quiz, 10 points  
 2 Homework assignments, 30 points total  
-Project, 35 points (+ 5 bonus in rare cases)
+Project, 35 points (+ 5 bonus in rare cases)  
 Professionalism,  15 points
 
 The maximum score is 95 unless you achieve the bonus or display excellent professionalism. Excellent professionalism means going above and beyond in terms of in-class participation and contributions on the discussion board. Regularly responding to fellow students is a step toward the bonus. Bonus points are rare and will be reserved for excellence. Most students will receive a 10 for their processionalism score. Failing to participate in class, regularly skipping class, leaving your project team out to dry, will result in reduced scores. This should also be rare.
