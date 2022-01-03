@@ -33,7 +33,6 @@ fixedNav: true # true or false
 permalink: /:title/
 markdown: kramdown
 
-
 toc:
   - title: Syllabus
     url: https://stat550-2021.github.io/syllabus/
