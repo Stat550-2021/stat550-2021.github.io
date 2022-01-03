@@ -4,6 +4,8 @@ layout: page
 ---
 
 
+# Syllabus
+
 > Term 2 Winter 2020: 11 Jan 11 - 24 Feb (no class on 2/15 or 2/17)
  
 ## Course info
