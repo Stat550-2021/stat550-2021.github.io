@@ -28,4 +28,6 @@ The major goals are to
 Class time will contain some lectures and some guest lectures as well as student
 presentations and workshops.
 
+## Announcements
+
 {% include announcements.html %}
