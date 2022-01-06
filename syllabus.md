@@ -1,12 +1,12 @@
 ---
 title: Syllabus
 layout: page
+icon: "fas fa-user-sheild"
 ---
 
 
 # Syllabus
 
-> Term 2 Winter 2020: 11 Jan 11 - 24 Feb (no class on 2/15 or 2/17)
  
 ## Course info
 
@@ -51,14 +51,36 @@ The major goals are to
 
 ## Course assessment opportunities
 
-TBD  
-In-class activities, max 20 points  
-Little quiz, 10 points  
-2 Homework assignments, 30 points total  
-Project, 35 points (+ 5 bonus in rare cases)  
-Professionalism,  15 points
 
-The maximum score is 95 unless you achieve the bonus or display excellent professionalism. Excellent professionalism means going above and beyond in terms of in-class participation and contributions on the discussion board. Regularly responding to fellow students is a step toward the bonus. Bonus points are rare and will be reserved for excellence. Most students will receive a 10 for their processionalism score. Failing to participate in class, regularly skipping class, leaving your project team out to dry, will result in reduced scores. This should also be rare.
+- 2 Group Case Studies (20 total)
+- 2 Individual Case Study Reviews (10 total)
+- 2 Group Case Study Revisions (10 total)
+- 1 Individual Final project (15 points)
+- 1 individual presentation (15 points)
+- In-class exercises (15 points)
+- Professionalism (15 points)
+
+### Case Studies
+
+These are the major component of the course and count for 55% of the total mark. Throughout the course I will present 6 cases based on my on collaborative research. We will then brainstorm approaches to solving the case together as a class. In small groups, you will propose a solution and begin implementation. You will peer evaluate each others proposals and implementation. Finally your group will complete the implementation and address the peer-evaluations.
+
+The first two case studies will be done in groups, the third will be done individually without revisions or evaluation.
+
+### Presentation
+
+Each student will give a 30-minute presentation on a consulting topic with slides.
+
+### In-class exercises
+
+There will be a number of in-class exercises for practice on various statistical or computational issues. Submission will be via Github.
+
+### Professionalism
+
+Excellent professionalism means going above and beyond in terms of in-class participation and contributions on the discussion board. Regularly responding to fellow students is a step toward the excellence. Failing to participate in class, regularly skipping class, leaving your project teams out to dry, will result in reduced scores. This should also be rare.
+
+This is a required graduate course and a prerequisite for your degree. Failing to support your classmates or take this course seriously will be dealt with harshly. A rubric for this component is linked below.
+
+* [Professionalism rubric]()
 
 
 ## Important considerations
