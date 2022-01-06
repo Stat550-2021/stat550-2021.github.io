@@ -1,11 +1,9 @@
 ---
 title: Syllabus
 layout: page
-icon: "fas fa-user-sheild"
+icon: "fas fa-user-shield"
 ---
 
-
-# Syllabus
 
  
 ## Course info
