@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   UBC Stat 550 - Techniques of Statistical Consulting, 2021
 baseurl: "" # the subpath of your site, e.g.
 url: "https://stat550-2021.github.io/"
-remote_theme: vsoch/mkdocs-jekyll
+remote_theme: dajmcdon/mkdocs-jekyll
 
 
 # Social (First three Required)
