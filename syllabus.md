@@ -24,7 +24,7 @@ WWW: <https://stat550-2021.github.io/>
 Github Org: <https://github.com/stat550-2021/>
 
 __Lectures__:  
-Tue/Thu 12:30 - 14:00, ESB 4192 (on Zoom for now, link on Canvas) 
+Tue/Thu 14:30 - 16:00, ESB 4192 (on Zoom for now, link on Canvas) 
 
 
 
@@ -47,7 +47,7 @@ The major goals are to
 
 
 
-## Course assessment opportunities
+## Assessment opportunities
 
 
 - 2 Group Case Studies (20 total)

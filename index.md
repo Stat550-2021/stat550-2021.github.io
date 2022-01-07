@@ -1,5 +1,5 @@
 ---
-title: UBC STAT 550 -- 2021T2
+title: UBC STAT 550 - 2021T2
 layout: page
 ---
 

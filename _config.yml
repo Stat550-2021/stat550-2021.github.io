@@ -37,10 +37,19 @@ markdown: kramdown
 toc:
   - title: Syllabus
     url: syllabus
+    children:
+      - title: Course info
+        url: syllabus#course-info
+      - title: Course content
+        url: syllabus#course-content
+      - title: Assessment opportunities
+        url: syllabus#assessment-opportunities
+      - title: Important considerations
+        url: syllabus#important-considerations
   - title: Schedule
     url: schedule
   - title: Lecture slides
     url: lectures
   - title: Announcements
-    url: announcements
+    url: archive
 
