@@ -8,26 +8,14 @@ baseurl: "" # the subpath of your site, e.g.
 url: "https://stat550-2021.github.io/"
 remote_theme: dajmcdon/minimal-course
 
-# Social (First three Required)
-# repo: "https://github.com/stat550-2021/"
-# github_user: "stat550-2021"
-#github_repo: "stat550-2021"
 
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
-logo_width: 34
-color: deep-purple # primary color for header, buttons
 
 # Build settings
 markdown: kramdown
 
-tag_color: danger # danger, success, warning, primary, info, secondary
-
-
-
-accentColor: orange # purple, green, etc.
-themeColor: deep-purple # purple, green, blue, orange, purple, grey
 fixedNav: true # true or false
 
 permalink: /:title/
@@ -41,13 +29,15 @@ use-license: true
 
 navigation:
   - title: Syllabus
-    url: syllabus
+    url: /syllabus
   - title: Schedule
-    url: schedule
+    url: /schedule
   - title: Lecture slides
-    url: lectures
+    url: /lectures
   - title: Presentations
-    url: presentations
+    url: /presentations
   - title: Announcements
-    url: archive
-
+    url: /archive
+  - title: Github
+    url: https://github.com/stat550-2021
+    icon: "fab fa-github"
