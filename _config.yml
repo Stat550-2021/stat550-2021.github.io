@@ -6,13 +6,12 @@ description: > # this means to ignore newlines until "baseurl:"
   UBC Stat 550 - Techniques of Statistical Consulting, 2021
 baseurl: "" # the subpath of your site, e.g.
 url: "https://stat550-2021.github.io/"
-remote_theme: dajmcdon/mkdocs-jekyll
-
+remote_theme: dajmcdon/minimal-course
 
 # Social (First three Required)
-repo: "https://github.com/stat550-2021/"
-github_user: "stat550-2021"
-github_repo: "stat550-2021"
+# repo: "https://github.com/stat550-2021/"
+# github_user: "stat550-2021"
+#github_repo: "stat550-2021"
 
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
@@ -33,8 +32,14 @@ fixedNav: true # true or false
 
 permalink: /:title/
 markdown: kramdown
+navbar: dark
+theme-bg: rgb(101, 78, 163)
+navbar-fixed-top: true
 
-toc:
+google_fonts: Montserrat
+use-license: true
+
+navigation:
   - title: Syllabus
     url: syllabus
   - title: Schedule

@@ -30,4 +30,4 @@ presentations and workshops.
 
 ## Announcements
 
-{% include announcements.html %}
+
