@@ -31,6 +31,7 @@ icon: "far fa-calendar-alt"
 | 31 March    | Guest lecture        |                    |
 | 5 April     | Presentations        |                    |
 | 7 April     | Parallel computing   | Project Due        |
+{: .table .table-striped}
 
 
 ## Guest lecturers?
