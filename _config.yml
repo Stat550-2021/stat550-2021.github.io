@@ -21,8 +21,8 @@ fixedNav: true # true or false
 permalink: /:title/
 markdown: kramdown
 navbar: dark
-theme-primary: #6f42c1
-theme-secondary: #fd7e14
+theme-primary: "#6f42c1"
+theme-secondary: "#fd7e14"
 navbar-fixed-top: true
 
 google_fonts: Montserrat
