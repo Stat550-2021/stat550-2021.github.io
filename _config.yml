@@ -50,6 +50,13 @@ toc:
     url: schedule
   - title: Lecture slides
     url: lectures
+  - title: Presentations
+    url: presentations
+    children:
+      - title: Possible topics
+        url: presentations#possible-topics
+      - title: Requirements
+        url: presentations#requirements
   - title: Announcements
     url: archive
 
