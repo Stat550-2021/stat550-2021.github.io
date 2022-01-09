@@ -37,8 +37,6 @@ navigation:
     url: /lectures
   - title: Presentations
     url: /presentations
-  - title: Announcements
-    url: /archive
   - title: Github
     url: https://github.com/stat550-2021
     icon: "fab fa-github"

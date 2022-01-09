@@ -5,8 +5,7 @@ layout: default
 
 
 <figure class="figure">
-  <img src="assets/img/consult.jpeg" class="figure-img img-fluid rounded" alt="STAT 550">
-  <figcaption class="figure-caption">UBC STAT 550 - 2021T2</figcaption>
+  <img src="assets/img/consult.jpeg" class="figure-img img-fluid" alt="STAT 550">
 </figure>
 
 
@@ -32,6 +31,10 @@ The major goals are to
 
 Class time will contain some lectures and some guest lectures as well as student
 presentations and workshops.
+
+<br><br>
+
+<hr>
 
 ## Announcements
 
