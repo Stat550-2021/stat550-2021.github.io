@@ -1,8 +1,13 @@
 ---
 title: UBC STAT 550 - 2021T2
-layout: page
+layout: default
 ---
 
+
+<figure class="figure">
+  <img src="assets/img/consult.jpeg" class="figure-img img-fluid rounded" alt="STAT 550">
+  <figcaption class="figure-caption">UBC STAT 550 - 2021T2</figcaption>
+</figure>
 
 
 
