@@ -34,7 +34,7 @@ navigation:
   - title: Schedule
     url: /schedule
   - title: Lecture slides
-    url: /lectures
+    url: /lecture-slides
   - title: Presentations
     url: /presentations
   - title: Github
