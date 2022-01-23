@@ -13,7 +13,8 @@ icon: "fas fa-chalkboard-teacher"
 1. Likert scale: Carifio J, Perla R. Resolving the 50‐year debate around using and misusing Likert scales. Medical education. 2008 Dec 1;42(12):1150-2.
 1. Missing data and Imputation: Horton NJ, Lipsitz SR. Multiple imputation in practice: comparison of software packages for regression models with missing variables. The American Statistician. 2001 Aug 1;55(3):244-54. 9). DG Altman and JM Bland (2007) Missing data. BMJ 334, p. 424
 
-### Modeling
+### Modelling
+
 1. Experimental designs:Czitrom V. One-factor-at-a-time versus designed experiments. The American Statistician. 1999 May 1;53(2):126-31.
 2. Association, correlation and causation: Altman N, Krzywinski M. Points of Significance: Association, correlation and causation (2015).
 3. Model Diagnostics: Friendly M, Kwan E. Where's Waldo? Visualizing collinearity diagnostics. The American Statistician. 2009 Feb 1;63(1):56-65.
@@ -30,7 +31,33 @@ icon: "fas fa-chalkboard-teacher"
 ### Challenges in data analysis and consulting
 
 1. Pseudoreplications: Schank JC, Koehnle TJ (2009). Pseudoreplication is a pseudoproblem. Journal of Comparative Psychology 123(4):421–433; Blainey P, Krzywinski M, Altman N. Points of significance: replication.
-1. Simpson paradox: Clifford H. Wagner (February 1982). "Simpson's Paradox in Real Life". The American Statistician. 36 (1): 46–48.; Berman, S. DalleMule, L. Greene, M., Lucker, J. (2012), "Simpson’s Paradox: A Cautionary Tale in Advanced Analytics", Significance.
+1. Simpson's paradox: Clifford H. Wagner (February 1982). "Simpson's Paradox in Real Life". The American Statistician. 36 (1): 46–48.; Berman, S. DalleMule, L. Greene, M., Lucker, J. (2012), "Simpson’s Paradox: A Cautionary Tale in Advanced Analytics", Significance.
 1. Outliers: Altman N, Krzywinski M. Points of Significance: Analyzing outliers: influential or nuisance?
 1. Consulting - part I: Zahn DA, Isenberg DJ. Nonstatistical aspects of statistical consulting. The American Statistician. 1983 Nov 1;37(4a):297-302. 16) 
 1. Consulting - part II: Kirk RE. Statistical consulting in a university: Dealing with people and other challenges. The American Statistician. 1991 Feb 1;45(1):28-34.
+
+## Procedure
+
+1. On the shared Google Sheet. Select put a number indicating your Top 3 choices. You must do this by 28 January at noon. If you don't, you'll be assigned whatever is left.
+2. I'll make final assignments by 31 January.
+3. Be ready to present by the listed date for your assignment.
+
+## Expectations
+
+Time: 15 min followed by 5-10 minute of Q&A. 
+
+* Expect some immediate feedback/criticism from me. Try not to take this too hard. The intention is to help everyone improve.
+
+* You can use any software to prepare your oral presentation. Topics are simple but useful in consulting. The first ~10 minutes should be targeted toward a general audience. The remaining ~5 minutes should be more technical, targeted toward your classmates. 
+
+* The references above are meant to be good starting points. You can follow them if you like, but this is not required. If you follow the papers given, you must complement them with other references (it will make the presentation stronger).
+
+#### Rubric
+
+You'll be evaluated on content (4), presentation skills (3), clarity of the slides (2), and time management (1).
+
+#### Deliverable
+
+No matter how you create your presentation (.Rmd, Google slides, .pptx, .keynote), you must upload a pdf (and only the pdf) to the `presentations` repo no later than **3** days before the "projected presentation date". You should do this via pull request. The name of your file should be `xx-topic-title` where `xx` is the two digit number of your presentation, `topic` is self-explanatory, and `title` is the first word in the title. For example, `06-modelling-association.pdf` for presentation 6.  
+
+You must have a slide (toward the back, not necessarily shown during the presentation) with a list of useful references. These must be properly formatted using a standard style. I suggest following _Annals of Applied Statistics_ (see [here](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/) for examples) or _Canadian Journal of Statistics_.
