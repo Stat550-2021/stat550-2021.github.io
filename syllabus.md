@@ -66,7 +66,7 @@ The first two case studies will be done in groups, the third will be done indivi
 
 ### Presentation
 
-Each student will give a 30-minute presentation on a consulting topic with slides.
+Each student will give a 20-minute presentation on a consulting topic with slides. 
 
 ### In-class exercises
 
