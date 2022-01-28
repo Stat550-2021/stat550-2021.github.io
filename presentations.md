@@ -62,6 +62,10 @@ You'll be evaluated on
 
 #### Deliverable
 
-No matter how you create your presentation (.Rmd, Google slides, .pptx, .keynote), you must upload a pdf (and only the pdf) to the `presentations` repo no later than **3** days before the "projected presentation date". You should do this via pull request. The name of your file should be `xx-topic-title` where `xx` is the two digit number of your presentation, `topic` is self-explanatory, and `title` is the first word in the title. For example, `06-modelling-association.pdf` for presentation 6.  
+* No matter how you create your presentation (.Rmd, Google slides, .pptx, .keynote), you must upload the slides (and only the slides) to the `presentations` repo no later than **3** days before the "projected presentation date". 
+* You should do this via pull request. 
+* The name of your file should be `xx-topic-title` where `xx` is the two digit number of your presentation, `topic` is self-explanatory, and `title` is the first word in the title. 
+* For example, `06-modelling-association.pdf` for presentation 6.  
+* I'll allow .html, .pdf, or a link to something public (say with `06-modelling-association.md` containing only a link). No .pptx or .keynote.
 
 You must have a slide (toward the back, not necessarily shown during the presentation) with a list of useful references. These must be properly formatted using a standard style. I suggest following _Annals of Applied Statistics_ (see [here](https://imstat.org/journals-and-publications/annals-of-applied-statistics/annals-of-applied-statistics-next-issues/) for examples) or _Canadian Journal of Statistics_. You will not receive full marks if the only references are those listed above.
