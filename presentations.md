@@ -6,14 +6,14 @@ icon: "fas fa-chalkboard-teacher"
 
 ## Possible topics
 
-### Data
+### Data (prepared by 8 March)
 
 1. Continuous vs discrete: DG Altman and P Royston (2006) The cost of dichotomising continuous variables. BMJ 332, p. 1080
 1. Transformations: JM Bland and DG Altman (1996) The use of transformations when comparing two means. BMJ 312, p. 1153
 1. Likert scale: Carifio J, Perla R. Resolving the 50‐year debate around using and misusing Likert scales. Medical education. 2008, 42(12):1150-2.
 1. Missing data and Imputation: Horton NJ, Lipsitz SR. Multiple imputation in practice: comparison of software packages for regression models with missing variables. The American Statistician. 2001, 55(3):244-54. DG Altman and JM Bland (2007) Missing data. BMJ 334, p. 424
 
-### Modelling
+### Modelling (prepared by 15 March)
 
 5. Experimental designs: Czitrom V. One-factor-at-a-time versus designed experiments. The American Statistician. 1999, 53(2):126-31.
 6. Association, correlation and causation: Altman N, Krzywinski M. Points of Significance: Association, correlation and causation (2015).
@@ -21,14 +21,14 @@ icon: "fas fa-chalkboard-teacher"
 8. Overfitting: Lever J, Krzywinski M, Altman N. Points of significance: model selection and overfitting.
 
 
-### Inference
+### Inference (prepared by 22 March)
 
 9. P-values: http://www.nature.com/news/statisticians-issue-warning-over-misuse-of-p-values-1.19503?WT.mc_id=SFB_NNEWS_1508_RHBox; DG Altman and JM Bland (1995) Absence of evidence is not evidence of absence. BMJ 311,p. 485
 10. P-val adjustment: JM Bland and DG Altman (1995) Multiple signicance tests: the Bonferroni method. BMJ 310, p. 170; O'Keefe DJ. Colloquy: Should familywise alpha be adjusted? Against familywise alpha adjustment. Human Communication Research. 2003, 29(3):431-47.
 11. Power: Krzywinski M, Altman N. Points of significance: Power and sample size.
 12. Uncertainty, SD and SE: Krzywinski M, Altman N. Points of significance: importance of being uncertain. DG Altman and JM Bland (2005) Standard deviations and standard errors. BMJ 331, p. 903; Krzywinski M, Altman N. Points of significance: error bars.
 
-### Challenges in data analysis and consulting
+### Challenges in data analysis and consulting (prepared by 29 March)
 
 13. Pseudoreplications: Schank JC, Koehnle TJ (2009). Pseudoreplication is a pseudoproblem. Journal of Comparative Psychology 123(4):421–433; Blainey P, Krzywinski M, Altman N. Points of significance: replication.
 14. Simpson's paradox: Clifford H. Wagner (February 1982). "Simpson's Paradox in Real Life". The American Statistician. 36 (1): 46–48.; Berman, S. DalleMule, L. Greene, M., Lucker, J. (2012), "Simpson’s Paradox: A Cautionary Tale in Advanced Analytics", Significance.
