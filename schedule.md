@@ -22,10 +22,10 @@ icon: "far fa-calendar-alt"
 | 17 February | Missingness              | HW 1 Peer Eval Due |
 | 1 March     | ASDa (Biljana, Zoom)     | HW 1 Revision      |
 | 3 March     | Case 5 (Prerna)          |                    |
-| 8 March     | Presentations            |                    |
-| 10 March    | Guest lecture (Jens?)    | HW 2 Due           |
+| 8 March     | Case 6 (Ira)             |                    |
+| 10 March    | Presentations            | HW 2 Due           |
 | 15 March    | Presentations            |                    |
-| 17 March    | Case 6 (Ira)             | HW 2 Peer Eval Due |
+| 17 March    | Guest lecture (Jens?)    | HW 2 Peer Eval Due |
 | 22 March    | Presentations            |                    |
 | 24 March    | Guest lecture (Nikolas?) | HW 2 Revision Due  |
 | 29 March    | Presentations            |                    |
@@ -37,9 +37,9 @@ icon: "far fa-calendar-alt"
 
 ## Guest lecturers
 
-- Prerna Gupta (PhD Candidate, IRES)
-- Ira Southerland (PhD Candidate, Forestry)
-- Jens von Bergmann (Professional Consultant)
-- ASDa management (Biljana Stojkova)
+- [Prerna Gupta](https://ires.ubc.ca/person/prerna-gupta/) (PhD Candidate, IRES)
+- [Ira Sutherland](http://www.irasutherland.com) (PhD Candidate, Forestry)
+- [Jens von Bergmann](https://mountainmath.ca) (Professional Consultant)
+- ASDa management ([Biljana Stojkova](https://asda.stat.ubc.ca/about.html))
 - Nikolas Kristic (Stat PhD Student, regular ASDa consultant)
 
