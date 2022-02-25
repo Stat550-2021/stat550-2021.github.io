@@ -25,11 +25,11 @@ icon: "far fa-calendar-alt"
 | 8 March     | Case 6 (Ira)             |                    |
 | 10 March    | Presentations            | HW 2 Due           |
 | 15 March    | Presentations            |                    |
-| 17 March    | Guest lecture (Jens?)    | HW 2 Peer Eval Due |
+| 17 March    | overflow...              | HW 2 Peer Eval Due |
 | 22 March    | Presentations            |                    |
 | 24 March    | Guest lecture (Nikolas?) | HW 2 Revision Due  |
 | 29 March    | Presentations            |                    |
-| 31 March    | Open...                  |                    |
+| 31 March    | Guest lecture (Jens)     |                    |
 | 5 April     | Presentations            |                    |
 | 7 April     | Parallel computing       | Project Due        |
 {: .table .table-striped}
