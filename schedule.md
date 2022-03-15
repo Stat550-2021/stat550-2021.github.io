@@ -24,8 +24,8 @@ icon: "far fa-calendar-alt"
 | 3 March     | Case 5 (Prerna)         | HW 1 Revision Due (4 March) |
 | 8 March     | Case 6 (Ira)            |                             |
 | 10 March    | Presentations           | HW 2 Due                    |
-| 17 March    | overflow...             |                             |
-| 15 March    | Presentations           | HW 2 Peer Eval Due          |
+| 15 March    | Presentations           |                             |
+| 17 March    | overflow...             | HW 2 Peer Eval Due          |
 | 22 March    | Presentations           |                             |
 | 24 March    | Guest lecture (Nikolas) | HW 2 Revision Due           |
 | 29 March    | Presentations           |                             |
